@@ -1,0 +1,2 @@
+# MagIQ
+Website jaarproject
